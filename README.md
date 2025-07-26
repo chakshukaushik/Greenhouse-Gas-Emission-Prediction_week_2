@@ -6,7 +6,9 @@ The trained model and scaler are too large to be uploaded directly to GitHub due
 You can download them from the link below:
 
  🔗 Download Model and Scaler (Google Drive):
+ 
 https://drive.google.com/drive/u/0/folders/1pz9qWaSY1IV8nMAZnQyj7yB3foLncUTF
+
 The folder contains:
 
     model.pkl – Trained ML model
