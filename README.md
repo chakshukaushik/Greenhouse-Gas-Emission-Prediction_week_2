@@ -5,7 +5,8 @@
 The trained model and scaler are too large to be uploaded directly to GitHub due to the 25 MB file size limit.
 You can download them from the link below:
 
- 🔗 Download Model and Scaler (Google Drive)
+ 🔗 Download Model and Scaler (Google Drive):
+ https://drive.google.com/drive/folders/1u30n2mrKPtf-81uRde2MRCgrgEbLzPZr
 
 The folder contains:
 
